@@ -5,7 +5,7 @@ Requires at least: 2.9
 Tested up to: 3.2
 Stable tag: 1.0
 
-Share a plugin in your post or page without outputting directly to markup.
+Share an email address in your post or page without outputting directly to markup.
 
 == Description ==
 
