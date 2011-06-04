@@ -11,6 +11,9 @@ Share a plugin in your post or page without outputting directly to markup.
 
 Email spammers are bad, mmmkay? Use a shortcode to obfuscate your email address while also pre-filling subject and body
 
+Example usage:
+`[email address="steve@apple.com" subject="Death grip" body="New iPhone please"]`
+
 == Frequently Asked Questions ==
 
 = Does it get better? =
